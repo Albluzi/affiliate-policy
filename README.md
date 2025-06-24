@@ -1,1 +1,13 @@
-# affiliate-policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - alblzui Affiliate App</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This privacy policy applies to the “Affiliate Auto Poster” app created by Mahmoud Hashem (Pinterest username: alblzui).</p>
+  <p>This app does not collect, store, or share any user data. It is for personal use only.</p>
+  <p>Contact: albluzi2025@gmail.com</p>
+</body>
+</html>
